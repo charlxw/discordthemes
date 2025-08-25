@@ -1,0 +1,55 @@
+/**
+* @name google sans
+* @author hiyachar
+* @version 1.0.1
+* @description this theme changes your font to FULL fledged Google Sans
+* @source https://github.com/charlxw/discordthemes/blob/master/gsansfont.theme.css
+* @website https://wchar.uk
+*/
+
+@font-face {
+  font-family: "Google Sans";
+  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Light.woff2");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Google Sans";
+  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Regular.woff2");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Google Sans";
+  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Bold.woff2");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Google Sans";
+  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Italic.woff2");
+  font-style: italic;
+}
+
+html,
+body,
+*,
+.messageContent-2qWWcC,
+.editor-H2kO8t,
+.title-1p9d51,
+.channel-1Sj2pm {
+  font-family: "Google Sans", sans-serif !important;
+}
+
+b,
+strong,
+.font-bold,
+.fontWeight600-4q9P0c,
+.messageHeader-36X4rC .username-1b_v3J {
+  font-weight: bold !important;
+}
+
+i,
+em {
+  font-style: italic !important;
+}
