@@ -1,33 +1,34 @@
 /**
 * @name google sans
 * @author hiyachar
-* @version 1.0.1
-* @description this theme changes your font to FULL fledged Google Sans
+* @version 1.0.2
+* @description please click allow on the domain if using vencord (woff2 is a font) | this changes discord to full fledged google sans!
 * @source https://github.com/charlxw/discordthemes/blob/master/gsansfont.theme.css
 * @website https://wchar.uk
 */
 
 @font-face {
   font-family: "Google Sans";
-  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Light.woff2");
+  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Light.woff2");
   font-weight: 300;
 }
 
 @font-face {
   font-family: "Google Sans";
-  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Regular.woff2");
+  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Regular.woff2");
   font-weight: 400;
 }
 
 @font-face {
   font-family: "Google Sans";
-  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Bold.woff2");
+  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Bold.woff2");
   font-weight: bold;
 }
 
 @font-face {
   font-family: "Google Sans";
-  src: url("https://github.com/charlxw/woff2/raw/refs/heads/main/GoogleSans-Italic.woff2");
+  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Italic.woff2");
+  font-weight: 400;
   font-style: italic;
 }
 
