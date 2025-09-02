@@ -2,33 +2,32 @@
 * @name google sans
 * @author hiyachar
 * @version 1.0.2
-* @description please click allow on the domain if using vencord (woff2 is a font) | this changes discord to full fledged google sans!
+* @description ALLOW THE DOMAIN WCHAR.UK FOR FONTS | this theme changes your font to FULL fledged Google Sans
 * @source https://github.com/charlxw/discordthemes/blob/master/gsansfont.theme.css
-* @website https://wchar.uk
+* @website https://charliewalsh.com/#/other
 */
 
 @font-face {
-  font-family: "Google Sans";
-  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Light.woff2");
+  font-family: "Product Sans";
+  src: url("https://wchar.uk/dtf/ProductSans-Light.woff2");
   font-weight: 300;
 }
 
 @font-face {
-  font-family: "Google Sans";
-  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Regular.woff2");
+  font-family: "Product Sans";
+  src: url("https://wchar.uk/dtf/ProductSans-Regular.woff2");
   font-weight: 400;
 }
 
 @font-face {
-  font-family: "Google Sans";
-  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Bold.woff2");
+  font-family: "Product Sans";
+  src: url("https://wchar.uk/dtf/ProductSans-Bold.woff2");
   font-weight: bold;
 }
 
 @font-face {
-  font-family: "Google Sans";
-  src: url("https://cdnwcharuk.pages.dev/GoogleSans-Italic.woff2");
-  font-weight: 400;
+  font-family: "Product Sans";
+  src: url("https://wchar.uk/dtf/ProductSans-Italic.woff2");
   font-style: italic;
 }
 
@@ -39,7 +38,7 @@ body,
 .editor-H2kO8t,
 .title-1p9d51,
 .channel-1Sj2pm {
-  font-family: "Google Sans", sans-serif !important;
+  font-family: "Product Sans", sans-serif !important;
 }
 
 b,
